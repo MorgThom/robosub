@@ -1,0 +1,6 @@
+Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\bin\Debug\RoboSub.exe.config
+Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\bin\Debug\RoboSub.exe
+Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\bin\Debug\RoboSub.pdb
+Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\obj\Debug\RoboSub.csprojResolveAssemblyReference.cache
+Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\obj\Debug\RoboSub.exe
+Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\obj\Debug\RoboSub.pdb
