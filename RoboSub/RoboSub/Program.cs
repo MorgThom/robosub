@@ -10,7 +10,7 @@ namespace RoboSub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("blarg Minh World and morgan!!");
+            Console.WriteLine("blarg Minh World and morgan!! added ssh key");
             Console.ReadLine();
             
         }
