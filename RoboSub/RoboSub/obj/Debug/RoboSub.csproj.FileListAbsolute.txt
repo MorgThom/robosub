@@ -4,3 +4,9 @@ Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\Ro
 Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\obj\Debug\RoboSub.csprojResolveAssemblyReference.cache
 Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\obj\Debug\RoboSub.exe
 Z:\captain On My Mac\Dropbox\MSU\EE 488 - senior design\PROJECTs\Robo\RoboSub\RoboSub\obj\Debug\RoboSub.pdb
+D:\Documents\Dropbox\Minh 2012 Fall\EELE488R\mn-git\robosub\RoboSub\RoboSub\bin\Debug\RoboSub.exe.config
+D:\Documents\Dropbox\Minh 2012 Fall\EELE488R\mn-git\robosub\RoboSub\RoboSub\obj\Debug\RoboSub.exe
+D:\Documents\Dropbox\Minh 2012 Fall\EELE488R\mn-git\robosub\RoboSub\RoboSub\obj\Debug\RoboSub.pdb
+D:\Documents\Dropbox\Minh 2012 Fall\EELE488R\mn-git\robosub\RoboSub\RoboSub\bin\Debug\RoboSub.exe
+D:\Documents\Dropbox\Minh 2012 Fall\EELE488R\mn-git\robosub\RoboSub\RoboSub\bin\Debug\RoboSub.pdb
+D:\Documents\Dropbox\Minh 2012 Fall\EELE488R\mn-git\robosub\RoboSub\RoboSub\obj\Debug\RoboSub.csprojResolveAssemblyReference.cache
