@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sensors\Pressure\PressureSensor.cs" />
+    <Compile Include="Tasks\InitializeTask.cs" />
     <Compile Include="Tasks\CourseTask.cs" />
     <Compile Include="Tasks\EnterGateTask.cs" />
     <Compile Include="Tasks\TaskManager.cs" />
@@ -53,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Movement\" />
+    <Folder Include="Sensors\IMU\" />
     <Folder Include="Vision\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

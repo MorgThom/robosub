@@ -10,8 +10,8 @@ namespace RoboSub.Tasks
     public enum CourseTaskStatus { NotDone, Done_Success, Done_Failure };
 
     /// <summary>
-    /// Interface for which all tasks should support
-    /// </summary>
+    /// Interface for which all tasks should implement
+    /// </summary>s
     public interface CourseTask
     {
 
