@@ -10,7 +10,7 @@ namespace RoboSub.Tasks
     /// <summary>
     /// Task for going through the enterance gate
     /// </summary>
-    class EnterGateTask : CourseTask //Implements CourseTask interface
+    class EnterGateTask : ICourseTask //Implements CourseTask interface
     {
 
         private int distance = 0;

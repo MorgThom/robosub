@@ -12,7 +12,7 @@ namespace RoboSub.Tasks
     /// <summary>
     /// Interface for which all tasks should implement
     /// </summary>s
-    public interface CourseTask
+    public interface ICourseTask
     {
 
         

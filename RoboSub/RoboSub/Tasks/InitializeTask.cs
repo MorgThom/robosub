@@ -9,7 +9,7 @@ namespace RoboSub.Tasks
     /// <summary>
     /// Task for doing various initialization tasks like going to depth.
     /// </summary>
-    class InitializeTask : CourseTask //Implement CourseTask
+    class InitializeTask : ICourseTask //Implement CourseTask
     {
 
 

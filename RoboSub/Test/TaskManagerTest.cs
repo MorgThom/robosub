@@ -14,9 +14,9 @@ namespace Test
 
             TaskManager taskManager = new TaskManager();
 
-            CourseTask task1 = new EnterGateTask(12);
+            ICourseTask task1 = new EnterGateTask(12);
             task1.Timeout = 1000;
-            CourseTask task2 = new EnterGateTask(12);
+            ICourseTask task2 = new EnterGateTask(12);
 
             taskManager.addTask(task1);
             taskManager.addTask(task2);

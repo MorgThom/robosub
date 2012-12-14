@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace RoboSub.Sensors.Pressure
 {
-    class PressureSensor
+    public interface IPressureSensor
     {
+
+        void calibrate();
+
+
+        float getDepth();
+
+
+
+
+
+        float Psi { get;  }
     }
 }
