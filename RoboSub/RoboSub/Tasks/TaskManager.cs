@@ -13,14 +13,14 @@ namespace RoboSub.Tasks
     public class TaskManager
     {
         
-        private List<CourseTask> taskList = new List<CourseTask>();
+        private List<ICourseTask> taskList = new List<ICourseTask>();
 
         public TaskManager()
         {
 
         }
 
-        public void addTask(CourseTask task) 
+        public void addTask(ICourseTask task) 
         {
             taskList.Add(task);
 
@@ -31,7 +31,7 @@ namespace RoboSub.Tasks
         /// </summary>
         public void start()
         {
-            foreach (CourseTask courseTask in taskList)
+            foreach (ICourseTask courseTask in taskList)
             {
                 Task task = Task.Factory.StartNew(() => courseTask.start());
                 if (courseTask.Timeout > 0)
